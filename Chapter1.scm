@@ -23,6 +23,15 @@ EXERCISE 1.1
          (else -1))
     (+ a 1))
 
+EXERCISE 1.2
+(define (fraction numerator denominator) (/ numerator denominator))
+(fraction 
+    (+ (+ 5 4)
+    (- 2
+    (- 3
+    (+ 6 (/ 4.00 5.00)))))
+    (* 3 (* (- 6 2) (- 2 7))))
+
 EXERCISE 1.3
 (define (sqaure x) (* x x))
 
