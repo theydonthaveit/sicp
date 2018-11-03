@@ -74,3 +74,5 @@ EXERCISE 1.1.7
 
 (define (sqrt x)
     (sqrt-iter 1.0 x))
+
+EXERCISE 1.6
