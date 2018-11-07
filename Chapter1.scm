@@ -119,3 +119,6 @@ EXERCISE 1.7
 
 ; Machine epsilon gives an upper bound on the relative error due to rounding in floating point arithmetic.
 ; Also, in real computers, arith-metic operations are almost always performed with lim-ited precision.
+
+EXERCISE 1.8
+(define (cube x) (* x x x))
