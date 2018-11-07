@@ -122,3 +122,4 @@ EXERCISE 1.7
 
 EXERCISE 1.8
 (define (cube x) (* x x x))
+(define (square x) (* x x))
